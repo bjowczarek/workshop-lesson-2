@@ -7,6 +7,6 @@ public class MyFirstMain {
      * Write your first main method which prints out your name. 
      * Напишите свой первый основной метод (main), который печатает ваше имя.
      */
-   
+  
     
 }
