@@ -9,9 +9,39 @@
             "name": "Debug (Launch)",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "stopOnEntry": false,
             "mainClass": "",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyFirstMain",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MyFirstMain",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicTypes",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BasicTypes",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Operators",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "application.Operators",
             "args": ""
         },
         {
