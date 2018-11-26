@@ -16,7 +16,7 @@ public class Exercises {
         variable 4;
         System.out.println("4. value is: " + variable);
 
-        variable3;
+        variable 3;
         System.out.println("5. value is: " + variable);
 
     }

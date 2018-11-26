@@ -9,7 +9,7 @@
             "name": "Debug (Launch)",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "",
             "args": ""
@@ -19,7 +19,7 @@
             "name": "Debug (Launch)-MyFirstMain",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "MyFirstMain",
             "args": ""
@@ -29,7 +29,7 @@
             "name": "Debug (Launch)-BasicTypes",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "BasicTypes",
             "args": ""
@@ -39,7 +39,7 @@
             "name": "Debug (Launch)-Operators",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "application.Operators",
             "args": ""

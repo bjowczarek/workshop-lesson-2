@@ -20,7 +20,7 @@ public class Operators {
 
     public static void main(String[] args) {
         Example operators = new Example();
-        //Exercises operators = new Example();
+        //Exercises operators = new Exercises();
 
         operators.assignment();
         operators.multiplicativeAndAdditive();
